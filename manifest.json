@@ -1,0 +1,13 @@
+{
+  "name": "Electric Knowledge by Ripon",
+  "short_name": "Electric Ripon",
+  "description": "Electrical calculators and component testing guides in Bangla and English",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#061326",
+  "theme_color": "#07172d",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
